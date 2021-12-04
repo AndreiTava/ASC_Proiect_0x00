@@ -1,4 +1,17 @@
 # Cerinta a II-a
+
+Nume Echipa: 404NameNotFound
+
+Echipa Adversa: gcodes [(link repo)](https://github.com/annemarie04/xor-project)
+
+Parola Adversa: cataannevlad123
+
+## Partea 1
+
+Metoda Obtinere:
+
+XOR input.txt cu output (crackkey.py)
+
 -----------------
 # Detalii Proiect
 
