@@ -6,8 +6,9 @@ Nume Adversar: gcodes [(repo link)](https://github.com/annemarie04/xor-project)
 Parola Adversar: parolamea2021
 
 ## Partea 1
-Metoda Obtinere: 
+### Metoda Obtinere: 
 XOR input_recuperat.txt cu output (crackkey.py) (input.txt si input_recuperat.txt nu coincid, dar nu din eroare la decriptare, iar output corespunde lui input_recuperat)
+
 -----------------
 # Detalii Proiect
 
