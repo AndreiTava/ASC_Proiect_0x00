@@ -12,6 +12,10 @@ Metoda Obtinere:
 
 XOR input.txt cu output (crackkey.py)
 
+## Partea 2
+
+Alta data
+
 -----------------
 # Detalii Proiect
 
