@@ -2,9 +2,9 @@ import sys
 #scuffed code dar l-am facut repede intr-o dimineata
 nume_fisier = sys.argv[1]
 psswrdstr="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
-validstr="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-+*[]{\}()/<> \"\'?!.,;:\n"
+validstr="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-_+*=^&%$#@~`|[]{\}()/<> \"\'?!.,;:\n"
 f = open(nume_fisier, "rb")
-#g = open("crackOutputs.txt", "w") for debugging
+#g = open("crackOutputs.txt", "w") #for debugging
 
 for i in range(10,16):
     key=[]
@@ -25,7 +25,8 @@ for i in range(10,16):
             else:
                 key.append(achr)
                 break
-    print(key)
-
+    print(i,key)
+f.close()
+#g.close()
 
         
